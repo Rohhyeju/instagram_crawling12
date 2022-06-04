@@ -1,0 +1,6 @@
+-git 저장소 URL
+https://github.com/Rohhyeju/instagram_crawling12.git
+
+-조원
+노혜주(Rohhyeju)
+송민정(pnuminjung)
